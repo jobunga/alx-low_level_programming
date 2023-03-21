@@ -1,5 +1,3 @@
-#include <stdlib.h>
-#include <time.h>
 /* The variable n will store a different value every time you run this program*/
 
 /* and whether it is greater than 5, less than 6, or 0. Return: Always 0. */
