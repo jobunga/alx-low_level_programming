@@ -1,5 +1,3 @@
-#!/bin/bash
-
 #include <stdo.h>
 /**
  * main - Entry point

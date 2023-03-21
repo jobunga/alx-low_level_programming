@@ -1,5 +1,3 @@
-#!/bin/bash
-
 #include <stdo.h>
 #include <unistd.h>
 /**
